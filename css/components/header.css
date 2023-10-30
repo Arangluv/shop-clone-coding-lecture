@@ -32,6 +32,9 @@
 .header__content {
   margin: 0 20px;
 }
+.header__content a {
+  color: black;
+}
 /* 아래 헤더 */
 .header__category {
   display: flex;
